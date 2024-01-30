@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_form ='info@practical.github.io';
+$email_form ='https://github.com/Bepractical1/practical.github.io';
 
 $email_subject ='New Form Submission';
 
